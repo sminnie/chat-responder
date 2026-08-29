@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice",
+    "profile": "Team lead and decision maker. Answers technical questions, approves plans, resolves blockers, gives clear directions."
+  },
+  {
+    "name": "Bob",
+    "profile": "Backend engineer. Discusses code, APIs, bugs, and implementation details. Offers technical help and fixes."
+  },
+  {
+    "name": "Carol",
+    "profile": "Supportive teammate. Encourages others, reacts positively, celebrates wins, offers moral support and thanks."
+  }
+]

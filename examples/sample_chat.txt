@@ -1,0 +1,8 @@
+[8/29/26, 10:15:32 AM] Alice: Morning team, can we ship the auth fix today?
+[8/29/26, 10:16:01 AM] Bob: The login endpoint still throws a 500 on empty passwords, I'm on it
+[8/29/26, 10:16:40 AM] Alice: Great, what's the ETA?
+[8/29/26, 10:17:12 AM] Bob: Give me an hour, need to add a validation guard
+[8/29/26, 10:18:03 AM] Carol: Nice work Bob, you've got this!
+[8/29/26, 10:45:22 AM] Bob: Fix is up, PR opened
+[8/29/26, 10:46:10 AM] Alice: Reviewing now, looks clean, approved
+[8/29/26, 10:47:00 AM] Carol: Woohoo, shipping day!
